@@ -1,3 +1,3 @@
 public class A {
-    System.out.println("B")
+    System.out.println("pa k aiga lujo")
 }
